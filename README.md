@@ -1,5 +1,76 @@
-# 💫 About Me:
-👋 Hi, I’m Mahendra Sahu<br><br>Senior Flutter Developer | Flutter & Web Specialist<br><br>🔭 I’m currently working on<br>Building scalable, high-performance Flutter mobile applications and modern web solutions, focusing on clean architecture, smooth animations, and exceptional UI/UX experiences.<br><br>👯 I’m looking to collaborate on<br>Flutter mobile apps, cross-platform solutions, UI/UX-driven products, and web development projects that aim to deliver real business impact and delightful user experiences.<br><br>🤝 I’m looking for help with<br>Advanced data analytics and big data workflows, including Python, PySpark, Databricks, and optimizing data-driven architectures.<br><br>🌱 I’m currently learning<br>Data Analytics & Big Data technologies — Python, PySpark, Databricks, and modern data processing techniques to expand my technical skill set beyond frontend development.<br><br>💬 Ask me about<br><br>Flutter & Dart (3+ years experience)<br><br>Clean Architecture & State Management (Provider)<br><br>UI/UX Design & Prototyping (Figma, Adobe XD)<br><br>REST, GraphQL & Socket APIs<br><br>CI/CD pipelines (Jenkins, Fastlane)<br><br>Firebase, FCM & Google Services<br><br>Web Development (HTML, CSS/SCSS, JS, Bootstrap)<br><br>Testing (Unit, Widget & Integration tests)<br><br>Agile workflows, sprint planning & user stories<br><br>⚡ Fun fact<br>I love transforming complex ideas into simple, elegant, and user-friendly interfaces—and I enjoy bridging the gap between design and development.
+# 👋 Hi there, I'm **Mahendra Sahu**
+### 🚀 Senior Flutter Developer | Flutter & Web Specialist
+
+💡 *Crafting beautiful, scalable, and user-centric digital experiences*
+
+</div>
+
+---
+
+## 🔭 Currently Working On
+- 📱 High-performance **Flutter mobile applications**
+- 🌐 Modern **web applications** with clean UI & smooth animations  
+- 🧩 Scalable architectures using **Clean Architecture**
+
+---
+
+## 👯 Looking to Collaborate On
+- 🤝 **Flutter & Cross-platform mobile apps**
+- 🎨 **UI/UX-driven products**
+- 🌍 Web development projects with real-world impact
+
+---
+
+## 🤝 Looking For Help With
+- 📊 **Data Analytics & Big Data**
+- 🐍 Python, **PySpark**, **Databricks**
+- ⚙️ Building efficient, data-driven pipelines
+
+---
+
+## 🌱 Currently Learning
+- 📈 **Data Analytics & Big Data Technologies**
+  - Python  
+  - PySpark  
+  - Databricks  
+  - Modern data processing techniques  
+
+---
+
+## 💬 Ask Me About
+
+### 📱 Mobile Development
+- Flutter • Dart • Packages & Plugins  
+- Provider • Animations • Clean Architecture  
+- Unit • Widget • Integration Testing  
+
+### 🌐 Web Development
+- HTML • CSS / SCSS / SASS • JavaScript  
+- Bootstrap • Webpack  
+- wow.js • animate.css • anime.js  
+
+### 🔗 APIs & Backend Integration
+- REST APIs • GraphQL • Socket  
+
+### 🎨 UI/UX & Design
+- Figma • Adobe XD • InVision • FigJam  
+- Photoshop • Illustrator • Affinity  
+
+### ⚙️ Tools & DevOps
+- Firebase • FCM • SQLite  
+- Git • Bitbucket  
+- Jenkins • Fastlane  
+- Jira • Azure DevOps • Trello  
+
+---
+
+## ⚡ Fun Fact
+✨ I love turning **complex ideas into clean, intuitive interfaces**—where design meets performance and user delight!
+
+---
+
+### 💬 Let’s build something amazing together!
+
 
 
 ## 🌐 Socials:
